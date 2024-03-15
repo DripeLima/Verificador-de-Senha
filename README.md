@@ -9,4 +9,4 @@ Verificação de Senha: A API permite aos usuários verificar se uma senha forne
 
 Contagem de Tentativas: A API monitora o número de tentativas de inserção de senha e bloqueia temporariamente o acesso após três tentativas incorretas consecutivas.
 
-Bloqueio Temporário: Após três tentativas de senha incorretas, a API bloqueia temporariamente o acesso por um período especificado.
+Bloqueio Temporário: Após três tentativas de senha incorretas, a API bloqueia temporariamente o acesso por um período especificado determinado pelo usuário.
